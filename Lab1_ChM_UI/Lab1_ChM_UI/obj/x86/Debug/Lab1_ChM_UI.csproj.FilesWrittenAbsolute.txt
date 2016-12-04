@@ -1,0 +1,18 @@
+/home/bepa/Documents/Study/III_1/ChM/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bepa/Documents/Study/III_1/ChM/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.gtk-gui.gui.stetic
+/home/bepa/Documents/Study/III_1/ChM/Lab1_ChM_UI/Lab1_ChM_UI/bin/Debug/Lab1_ChM_UI.exe.mdb
+/home/bepa/Documents/Study/III_1/ChM/Lab1_ChM_UI/Lab1_ChM_UI/bin/Debug/Lab1_ChM_UI.exe
+/home/bepa/Documents/Study/III_1/ChM/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.exe
+/home/bepa/Documents/Study/III_1/ChM/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.exe.mdb
+/home/karim/Project/KPI/3course/Чисельні методи/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/karim/Project/KPI/3course/Чисельні методи/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.gtk-gui.gui.stetic
+/home/karim/Project/KPI/3course/Чисельні методи/Lab1_ChM_UI/Lab1_ChM_UI/bin/Debug/Lab1_ChM_UI.exe.mdb
+/home/karim/Project/KPI/3course/Чисельні методи/Lab1_ChM_UI/Lab1_ChM_UI/bin/Debug/Lab1_ChM_UI.exe
+/home/karim/Project/KPI/3course/Чисельні методи/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.exe
+/home/karim/Project/KPI/3course/Чисельні методи/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.exe.mdb
+/home/vladimir/Документы/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vladimir/Документы/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.gtk-gui.gui.stetic
+/home/vladimir/Документы/Lab1_ChM_UI/Lab1_ChM_UI/bin/Debug/Lab1_ChM_UI.exe.mdb
+/home/vladimir/Документы/Lab1_ChM_UI/Lab1_ChM_UI/bin/Debug/Lab1_ChM_UI.exe
+/home/vladimir/Документы/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.exe
+/home/vladimir/Документы/Lab1_ChM_UI/Lab1_ChM_UI/obj/x86/Debug/Lab1_ChM_UI.exe.mdb
